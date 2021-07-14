@@ -1,4 +1,4 @@
 # Neural-Networks
 Neural Networks
 
-A.1 - Computer Vision
+A.1 - Computer Vision: Handwritten Digits
